@@ -1,3 +1,12 @@
-qwen:source ngram_acc.sh
-llava:source ngram_acc_llava.sh
+# N-Gram Accuracy Scripts
+
+## Qwen2VL
+```bash
+source ngram_acc.sh
+```
+
+## LLaVA
+```bash
+source ngram_acc_llava.sh
+```
 
